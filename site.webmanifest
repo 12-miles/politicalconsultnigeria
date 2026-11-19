@@ -1,0 +1,13 @@
+{
+  "name": "Political Consult Nigeria",
+  "short_name": "PCN",
+  "description": "Political structure, strategy, media and leadership development across Nigeria.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0C1512",
+  "theme_color": "#0C1512",
+  "icons": [
+    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" },
+    { "src": "/assets/img/apple-touch-icon.png", "sizes": "180x180", "type": "image/png" }
+  ]
+}
